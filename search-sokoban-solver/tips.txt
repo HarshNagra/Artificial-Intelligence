@@ -1,0 +1,13 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+
+1. Consider moving robot cost as well as moving the box cost.
+
+2. States with no solution should have high value.
+
+3. Consider corner cases, but don't write code that is not useful. 
+
+4. Use one storage for one box only. 
+
+5. Take long enough to understand the PDF provided and give the assignment enough time.
+
+6. Do not try to get all 100% cases solved, do your best but do not stress yourself. 
