@@ -7,4 +7,4 @@
 3. Variable Elimination - Bayesian Network
 
 
-# DO NOT PLAGIARIZE CODE - CSC384 - University of Toronto
+# DO NOT PLAGIARIZE CODE [CSC384, University of Toronto]
